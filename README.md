@@ -1,6 +1,6 @@
 # Olá, eu sou o Vitor! 👋
 
-🌱 **Atualmente aprendendo**: Spring Boot, React<br>
+🌱 **Atualmente aprendendo**: Spring Boot, React, NodeJS, TypeScript<br>
 💼 **Trabalhando como**: Desenvolvedor Júnior - SKY<br>
 🎯 **Objetivo**: Aprimorar minhas habilidades em backend e aprender mais sobre integrações front-end<br> 
 ⚡ **Curiosidade**: Amo estar smepre apredendo e me desafiando!
