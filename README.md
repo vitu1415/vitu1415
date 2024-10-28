@@ -12,11 +12,12 @@
   [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
   [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
   [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+  [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
   [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
   
 ## 🔗 Meus Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-alves-484932230/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitoralves0801@gmail.com)
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=vitu1415&show_icons=true&theme=radical)
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitu1415&layout=compact&theme=radical)
