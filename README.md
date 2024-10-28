@@ -10,7 +10,7 @@
 ## 🚀 Minhas Skills
 - **Linguagens e Ferramentas**:
   [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-  [![java](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
   [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
   [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
   
