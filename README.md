@@ -19,5 +19,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-alves-484932230/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitoralves0801@gmail.com)
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=vitu1415&show_icons=true&theme=radical)
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vitu1415&layout=compact&theme=radical)
