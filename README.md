@@ -9,11 +9,11 @@
 
 ## 🚀 Minhas Skills
 - **Linguagens e Ferramentas**:
-  [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-  [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-  [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
-  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+  [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/))
+  [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/pt-BR/)
+  [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+  [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
+  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
   
 ## 🔗 Meus Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-alves-484932230/)
