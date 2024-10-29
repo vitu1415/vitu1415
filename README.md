@@ -9,7 +9,7 @@
 
 ## 🚀 Minhas Skills
 - **Linguagens e Ferramentas**:
-  [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/))
+  [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
   [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/pt-BR/)
   [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
   [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
