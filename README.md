@@ -3,7 +3,7 @@
 🌱 **Atualmente aprendendo**: Spring Boot, React, NodeJS<br>
 💼 **Trabalhando como**: Desenvolvedor Júnior - SKY<br>
 🎯 **Objetivo**: Aprimorar minhas habilidades em backend e aprender mais sobre integrações front-end<br> 
-⚡ **Curiosidade**: Amo estar smepre apredendo e me desafiando!
+⚡ **Curiosidade**: Amo estar sempre apredendo e me desafiando!
 
 ![Coding](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
 
