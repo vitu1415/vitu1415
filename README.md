@@ -1,8 +1,8 @@
 # Olá, eu sou o Vitor! 👋
 
-🌱 **Atualmente aprendendo**: Spring Boot, React, NodeJS<br>
-💼 **Trabalhando como**: Desenvolvedor Júnior - SKY<br>
-🎯 **Objetivo**: Aprimorar minhas habilidades em backend e aprender mais sobre integrações front-end<br> 
+🌱 **Atualmente aprendendo**: Quarkus e react Native<br>
+💼 **Trabalhando como**: Desenvolvedor Júnior - Overlabs<br>
+🎯 **Objetivo**: Aprimorar minhas habilidades em backend e se tornar um profissinal mais completo no front-end<br> 
 ⚡ **Curiosidade**: Amo estar sempre apredendo e me desafiando!
 
 ![Coding](https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif)
@@ -14,6 +14,9 @@
   [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
   [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
   [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+  [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+  [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+  ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
   
 ## 🔗 Meus Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-alves-484932230/)
