@@ -16,7 +16,6 @@
   [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
   [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
   [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
-  ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
   
 ## 🔗 Meus Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-alves-484932230/)
