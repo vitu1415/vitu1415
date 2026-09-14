@@ -1,6 +1,6 @@
 # Olá, eu sou o Vitor! 👋
 
-🌱 **Atualmente aprendendo**: Quarkus e react Native<br>
+🌱 **Atualmente aprendendo**: Quarkus e Kotlin<br>
 💼 **Trabalhando como**: Desenvolvedor Júnior - Overlabs<br>
 🎯 **Objetivo**: Aprimorar minhas habilidades em backend e se tornar um profissinal mais completo no front-end<br> 
 ⚡ **Curiosidade**: Amo estar sempre apredendo e me desafiando!
